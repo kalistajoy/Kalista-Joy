@@ -1,0 +1,5 @@
+{
+  "name": "Twenty CRM Notifications",
+  "description": "A high-fidelity prototype of an inbox-driven CRM workflow, featuring a sliding inbox, structured data tables, and an interactive workflow approval panel.",
+  "requestFramePermissions": []
+}
